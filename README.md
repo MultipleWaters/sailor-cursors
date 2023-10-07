@@ -23,6 +23,14 @@ The cursor set contains 17 pointers plus Bonus pointers.
 * Location Select
 * Person Select
 
+# Sailor Cursors (v1.0) supports:
+* 32px x 32px (Smallest)
+* 48px x 48px (Small)
+* 64px x 64px (Medium)
+* 96px x 96px (Large)
+* 128px x 128px (Larger)
+* 240px x 240px (Largest)
+
 Attached is an instruction manual.
 
 .............Have Fun!!!.............
