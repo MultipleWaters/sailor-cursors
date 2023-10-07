@@ -1,7 +1,7 @@
 ![Sailor Preview](https://github.com/MultipleWaters/sailor-cursors/assets/74489981/19cdb0a7-8427-4b9f-a40b-88c49c37c0cb)
 # Sailor Cursors (v1.0) by multiplewaters
 An aesthetic cursor scheme for your Windows Operating System.
-The cursor set contains 17 pointers plus Bonus pointers.
+The cursor set contains 17 pointers plus bonus pointers.
 
  * Only the Busy & Working In Back cursors are animated.
 # List of Cursors
