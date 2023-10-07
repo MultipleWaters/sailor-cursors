@@ -3,7 +3,7 @@
 An aesthetic cursor scheme for your Windows Operating System.
 The cursor set contains 17 pointers plus Bonus pointers.
 
- * Only the Busy & Working In Back cursors are animated.*
+ * Only the Busy & Working In Back cursors are animated.
 # List of Cursors
 * Normal Select 
 * Help Select 
