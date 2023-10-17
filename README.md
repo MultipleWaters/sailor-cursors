@@ -35,4 +35,12 @@ The cursor set contains 17 pointers plus bonus pointers.
 
 Attached is an instruction manual.
 
+# You can also find me here:
+
+https://www.deviantart.com/multiplewaters
+
+https://www.patreon.com/multiplewaters/shop
+
+https://twitter.com/MultipleWaters
+
 .............Have Fun!!!.............
