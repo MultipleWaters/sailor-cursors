@@ -38,8 +38,8 @@ Attached is an instruction manual.
 
 https://www.deviantart.com/multiplewaters
 
-https://www.patreon.com/multiplewaters/shop
+https://buymeacoffee.com/multiplewaters
 
-https://twitter.com/MultipleWaters
+https://ko-fi.com/multiplewaters
 
 .............Have Fun!!!.............
